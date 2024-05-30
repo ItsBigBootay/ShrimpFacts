@@ -1,0 +1,19 @@
+{
+  "name": "shrimpfacts",
+  "version": "1.0.0",
+  "description": "haikus for shrimple",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsBigBootay/ShrimpFacts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsBigBootay/ShrimpFacts/issues"
+  },
+  "homepage": "https://github.com/ItsBigBootay/ShrimpFacts#readme"
+}
